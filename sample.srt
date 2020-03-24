@@ -1,0 +1,458 @@
+ 1
+00:00:00,000 --> 00:00:00,502
+
+
+2
+00:00:00,502 --> 00:00:01,960
+DR. PILLAI: In this
+video, we're going
+
+3
+00:00:01,960 --> 00:00:05,540
+to discuss some aspects
+of the biology of cancer.
+
+4
+00:00:05,540 --> 00:00:08,500
+So imagine this epithelial
+tissue before you.
+
+5
+00:00:08,500 --> 00:00:12,130
+There's a single cell that
+acquires mutations, possibly
+
+6
+00:00:12,130 --> 00:00:14,470
+in genes that
+regulate cell growth.
+
+7
+00:00:14,470 --> 00:00:16,960
+And as these
+mutations accumulate,
+
+8
+00:00:16,960 --> 00:00:19,840
+the cell starts to proliferate.
+
+9
+00:00:19,840 --> 00:00:22,750
+It loses its anchoring
+to its surroundings
+
+10
+00:00:22,750 --> 00:00:25,990
+and starts to
+multiply as a tumor.
+
+11
+00:00:25,990 --> 00:00:29,020
+As it grows, it produces
+some growth factors
+
+12
+00:00:29,020 --> 00:00:32,619
+that allow small blood
+vessels to invade the tumor
+
+13
+00:00:32,619 --> 00:00:34,610
+and to provide it
+with nutrients.
+
+14
+00:00:34,610 --> 00:00:37,190
+And this process is
+called "angiogenesis."
+
+15
+00:00:37,190 --> 00:00:40,930
+
+
+16
+00:00:40,930 --> 00:00:44,530
+As the tumor continues to
+grow, sometimes the tumor
+
+17
+00:00:44,530 --> 00:00:48,980
+will invade surrounding
+tissues, or it
+
+18
+00:00:48,980 --> 00:00:53,330
+might be able to cross
+into either a blood vessel
+
+19
+00:00:53,330 --> 00:00:56,750
+or perhaps into a lymphatic.
+
+20
+00:00:56,750 --> 00:01:01,120
+And by doing so, it can spread,
+and this process of spreading
+
+21
+00:01:01,120 --> 00:01:04,510
+is known as "metastasis."
+
+22
+00:01:04,510 --> 00:01:08,380
+So by metastasis
+through the blood,
+
+23
+00:01:08,380 --> 00:01:10,280
+a tumor might
+reach other organs.
+
+24
+00:01:10,280 --> 00:01:13,960
+So you could have secondaries
+of a tumor in the liver,
+
+25
+00:01:13,960 --> 00:01:17,030
+or in the kidney, or
+the lungs, for instance,
+
+26
+00:01:17,030 --> 00:01:18,550
+or even in the brain.
+
+27
+00:01:18,550 --> 00:01:22,670
+And sometimes the tumor will
+spread through lymphatics
+
+28
+00:01:22,670 --> 00:01:24,590
+to the draining
+lymph node, and one
+
+29
+00:01:24,590 --> 00:01:27,500
+can see an enlargement
+of lymph nodes
+
+30
+00:01:27,500 --> 00:01:29,900
+in the vicinity of the tumor.
+
+31
+00:01:29,900 --> 00:01:33,620
+Now as tumors grow, they are
+sustained by many things.
+
+32
+00:01:33,620 --> 00:01:36,570
+
+
+33
+00:01:36,570 --> 00:01:39,710
+One is you have the sustained
+proliferative signaling.
+
+34
+00:01:39,710 --> 00:01:43,840
+
+
+35
+00:01:43,840 --> 00:01:46,280
+You have actually the
+absence of cell death,
+
+36
+00:01:46,280 --> 00:01:49,150
+so tumors might shut off
+the process of apoptosis.
+
+37
+00:01:49,150 --> 00:01:52,030
+
+
+38
+00:01:52,030 --> 00:01:54,880
+They may evade
+mechanisms of suppressing
+
+39
+00:01:54,880 --> 00:01:58,330
+cell growth mediated by genes
+known as "tumor suppressors."
+
+40
+00:01:58,330 --> 00:02:01,290
+
+
+41
+00:02:01,290 --> 00:02:04,460
+And these cells also acquire
+the ability to metastasize
+
+42
+00:02:04,460 --> 00:02:05,750
+and have angiogenesis.
+
+43
+00:02:05,750 --> 00:02:10,800
+
+
+44
+00:02:10,800 --> 00:02:13,410
+Now in the old days,
+'til about 15 years
+
+45
+00:02:13,410 --> 00:02:16,110
+ago, the general
+view of tumor genesis
+
+46
+00:02:16,110 --> 00:02:19,170
+was that it involved these
+properties that basically
+
+47
+00:02:19,170 --> 00:02:22,410
+affected the growth of the
+cell and its migration,
+
+48
+00:02:22,410 --> 00:02:26,200
+and the immune system was
+not brought into the picture.
+
+49
+00:02:26,200 --> 00:02:29,550
+So one goes back and
+looks at classical reviews
+
+50
+00:02:29,550 --> 00:02:32,090
+by Doug Hanahan
+and Bob Weinberg.
+
+51
+00:02:32,090 --> 00:02:34,350
+They describe certain
+properties of tumors,
+
+52
+00:02:34,350 --> 00:02:37,320
+and they call these the six
+hallmarks of cancer, which
+
+53
+00:02:37,320 --> 00:02:40,380
+include evasion of
+growth suppressors,
+
+54
+00:02:40,380 --> 00:02:43,200
+the activation of
+invasion and metastasis,
+
+55
+00:02:43,200 --> 00:02:46,000
+the enabling of
+replicative immortality,
+
+56
+00:02:46,000 --> 00:02:50,370
+the induction of angiogenesis,
+the resisting of cell death,
+
+57
+00:02:50,370 --> 00:02:53,430
+and sustaining
+proliferative signaling.
+
+58
+00:02:53,430 --> 00:02:56,580
+But it was recognized, and it
+had been recognized before,
+
+59
+00:02:56,580 --> 00:02:59,040
+that sometimes
+tumors seem to grow
+
+60
+00:02:59,040 --> 00:03:01,138
+in the context of inflammation.
+
+61
+00:03:01,138 --> 00:03:03,180
+And it's also been recognized
+that sometimes when
+
+62
+00:03:03,180 --> 00:03:06,340
+tumors are infiltrated
+by immune cells,
+
+63
+00:03:06,340 --> 00:03:08,310
+they have a better prognosis.
+
+64
+00:03:08,310 --> 00:03:13,190
+So we do know that tumors are
+infiltrated by immune cells,
+
+65
+00:03:13,190 --> 00:03:16,980
+and that sometimes it is
+the inflammatory cells which
+
+66
+00:03:16,980 --> 00:03:21,240
+provide mutagens and drive
+the growth of the tumor
+
+67
+00:03:21,240 --> 00:03:23,410
+by creating more mutations.
+
+68
+00:03:23,410 --> 00:03:26,580
+So in this situation, you can
+think of inflammatory cells
+
+69
+00:03:26,580 --> 00:03:28,920
+being pro-tumorigenic.
+
+70
+00:03:28,920 --> 00:03:32,100
+But then there are many other
+contexts in which immune cells
+
+71
+00:03:32,100 --> 00:03:33,420
+come into the tumor.
+
+72
+00:03:33,420 --> 00:03:35,623
+Sometimes they would have
+eliminated the tumor,
+
+73
+00:03:35,623 --> 00:03:37,290
+but we wouldn't have
+seen it, and that's
+
+74
+00:03:37,290 --> 00:03:39,750
+called "immune surveillance."
+
+75
+00:03:39,750 --> 00:03:41,850
+But on other occasions,
+the immune cells
+
+76
+00:03:41,850 --> 00:03:45,120
+are induced to become
+exhausted, and effete,
+
+77
+00:03:45,120 --> 00:03:46,890
+and then the tumor grows.
+
+78
+00:03:46,890 --> 00:03:51,900
+So today, when we think about
+the cardinal signs of cancer
+
+79
+00:03:51,900 --> 00:03:55,800
+we include among these
+cardinal features of cancer
+
+80
+00:03:55,800 --> 00:04:00,090
+a few aspects of the
+interaction of the immune system
+
+81
+00:04:00,090 --> 00:04:01,200
+with the tumor.
+
+82
+00:04:01,200 --> 00:04:03,180
+So on the one
+hand, the tumor has
+
+83
+00:04:03,180 --> 00:04:06,600
+survived because it has
+acquired the ability
+
+84
+00:04:06,600 --> 00:04:09,890
+to avoid immune destruction.
+
+85
+00:04:09,890 --> 00:04:12,530
+On the other hand,
+sometimes the tumor
+
+86
+00:04:12,530 --> 00:04:16,579
+has grown because immune cells
+have created the environment
+
+87
+00:04:16,579 --> 00:04:18,149
+for the growth of the tumor.
+
+88
+00:04:18,149 --> 00:04:20,899
+So when you think of
+the biology of cancer,
+
+89
+00:04:20,899 --> 00:04:22,630
+we now think of the
+biology of cancer
+
+90
+00:04:22,630 --> 00:04:25,550
+as including aspects
+controlling cell growth,
+
+91
+00:04:25,550 --> 00:04:29,480
+angiogenesis,
+metastasis, but also we
+
+92
+00:04:29,480 --> 00:04:32,990
+think about the interplay
+between the immune system
+
+93
+00:04:32,990 --> 00:04:36,050
+and the tumor, which could
+work in two directions.
+
+94
+00:04:36,050 --> 00:04:38,250
+The immune system could
+have induced the tumor,
+
+95
+00:04:38,250 --> 00:04:40,220
+but the immune system
+also has the power
+
+96
+00:04:40,220 --> 00:04:43,360
+to help us get rid of the tumor.
+
+97
+00:04:43,360 --> 00:04:44,000
